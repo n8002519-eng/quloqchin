@@ -1,0 +1,363 @@
+[
+  {
+    "id": "sony-wh-1000xm5",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "wireless",
+    "categoryName": "Simsiz",
+    "price": 4650000,
+    "originalPrice": 5200000,
+    "rating": 4.9,
+    "reviewsCount": 184,
+    "inStock": 12,
+    "isPopular": true,
+    "isNew": false,
+    "image": "/images/products/sony-wh-1000xm5.svg",
+    "images": [
+      "/images/products/sony-wh-1000xm5.svg",
+      "/images/products/sony-wh-1000xm5-side.svg",
+      "/images/products/sony-wh-1000xm5-case.svg"
+    ],
+    "description": "Sony WH-1000XM5 — sanoatdagi eng ilg'or faol shovqinni so'ndirish (ANC) tizimi bilan jihozlangan premium toifadagi simsiz quloqchin. 8 ta mikrofon va Auto NC Optimizer yordamida har qanday shovqinli muhitda musiqadan to'liq bahra oling. 30 soatlik avtonom ishlash va ultra-qulay dizayn.",
+    "colors": ["Qora", "Kumushrang", "To'q ko'k"],
+    "specs": {
+      "Ulanish turi": "Bluetooth 5.2 / 3.5 mm audio kabel",
+      "Faol shovqinni so'ndirish (ANC)": "Mavjud (Dual Processors V1 & QN1)",
+      "Akkumulyator quvvati": "30 soatgacha (ANC yoniq), 40 soat (ANC o'chiq)",
+      "Tezkor quvvatlash": "3 daqiqada 3 soatlik musiqa tinglash",
+      "Chastota diapazoni": "4 Hz - 40 000 Hz",
+      "Kodeklar": "LDAC, AAC, SBC",
+      "Og'irligi": "250 gramm",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "apple-airpods-max",
+    "name": "Apple AirPods Max",
+    "brand": "Apple",
+    "category": "wireless",
+    "categoryName": "Simsiz",
+    "price": 7450000,
+    "originalPrice": 8100000,
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "inStock": 7,
+    "isPopular": true,
+    "isNew": false,
+    "image": "/images/products/apple-airpods-max.svg",
+    "images": [
+      "/images/products/apple-airpods-max.svg",
+      "/images/products/apple-airpods-max-side.svg",
+      "/images/products/apple-airpods-max-case.svg"
+    ],
+    "description": "Apple tomonidan ishlab chiqilgan yuqori aniqlikdagi dinamik drayver va hisoblash audiosi. Fazoviy audio (Spatial Audio) va dinamik bosh harakatlarini kuzatish bilan teatr darajasidagi immersiv ovoz. Nafas oluvchi to'rli boshbog' va xotira ko'pikli yostiqchalar.",
+    "colors": ["Space Gray", "Silver", "Sky Blue", "Pink", "Green"],
+    "specs": {
+      "Ulanish turi": "Bluetooth 5.0, Apple H1 chipi (har bir quloqlikda)",
+      "Faol shovqinni so'ndirish (ANC)": "Mavjud + Shaffoflik (Transparency) rejimi",
+      "Akkumulyator quvvati": "20 soatgacha (ANC va fazoviy audio yoniq)",
+      "Tezkor quvvatlash": "5 daqiqada 1.5 soatlik tinglash",
+      "Ovoz xususiyatlari": "Moslashuvchan ekvalayzer, Dynamic Head Tracking",
+      "Og'irligi": "384.8 gramm",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "marshall-major-iv",
+    "name": "Marshall Major IV",
+    "brand": "Marshall",
+    "category": "wireless",
+    "categoryName": "Simsiz",
+    "price": 1890000,
+    "originalPrice": 2200000,
+    "rating": 4.9,
+    "reviewsCount": 230,
+    "inStock": 18,
+    "isPopular": true,
+    "isNew": false,
+    "image": "/images/products/marshall-major-iv.svg",
+    "images": [
+      "/images/products/marshall-major-iv.svg",
+      "/images/products/marshall-major-iv-fold.svg"
+    ],
+    "description": "Klassik rok-n-roll uslubi va afsonaviy Marshall ovozi. Major IV 80 dan ortiq soatlik simsiz ijro vaqtini taqdim etadi. Simsiz quvvatlashni qo'llab-quvvatlaydi, buklanuvchi ixcham konstruksiyaga ega va juda chidamli materiallardan ishlangan.",
+    "colors": ["Qora", "Jigarrang"],
+    "specs": {
+      "Ulanish turi": "Bluetooth 5.0 / 3.5 mm kabel",
+      "Akkumulyator quvvati": "80+ soat uzluksiz musiqa",
+      "Tezkor quvvatlash": "15 daqiqada 15 soat quvvat",
+      "Drayver": "40 mm dinamik maxsus drayverlar",
+      "Chastota diapazoni": "20 Hz - 20 000 Hz",
+      "Og'irligi": "165 gramm",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "apple-airpods-pro-2",
+    "name": "Apple AirPods Pro 2 (USB-C)",
+    "brand": "Apple",
+    "category": "tws",
+    "categoryName": "TWS",
+    "price": 3150000,
+    "originalPrice": 3500000,
+    "rating": 5.0,
+    "reviewsCount": 310,
+    "inStock": 25,
+    "isPopular": true,
+    "isNew": true,
+    "image": "/images/products/apple-airpods-pro-2.svg",
+    "images": [
+      "/images/products/apple-airpods-pro-2.svg",
+      "/images/products/apple-airpods-pro-2-open.svg"
+    ],
+    "description": "H2 chipi bilan jihozlangan AirPods Pro 2 avvalgi avlodga nisbatan 2 barobar kuchliroq shovqinni bekor qiladi. Moslashuvchan audio (Adaptive Audio), suhbatni aniqlash (Conversation Awareness) va USB-C zaryadlash qutisi bilan har kuni eng zo'r hamrohingiz.",
+    "colors": ["Oq"],
+    "specs": {
+      "Ulanish turi": "Bluetooth 5.3, Apple H2 chip",
+      "Shovqinni so'ndirish": "Pro ANC + Adaptive Transparency",
+      "Akkumulyator": "6 soat (bir quvvatda), g'ilof bilan 30 soat",
+      "Himoya darajasi": "IP54 chang va suv tomchilariga chidamli",
+      "G'ilof xususiyatlari": "Dinamik, Find My U1 lokator, MagSafe / USB-C",
+      "Og'irligi": "5.3 g (har biri), g'ilof 50.8 g",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "sony-wf-1000xm5",
+    "name": "Sony WF-1000XM5 TWS",
+    "brand": "Sony",
+    "category": "tws",
+    "categoryName": "TWS",
+    "price": 3490000,
+    "originalPrice": 3900000,
+    "rating": 4.8,
+    "reviewsCount": 98,
+    "inStock": 9,
+    "isPopular": true,
+    "isNew": true,
+    "image": "/images/products/sony-wf-1000xm5.svg",
+    "images": [
+      "/images/products/sony-wf-1000xm5.svg",
+      "/images/products/sony-wf-1000xm5-case.svg"
+    ],
+    "description": "Dunyoning eng yaxshi shovqinni so'ndiruvchi TWS quloqchini. Dynamic Driver X bilan boy vokal va tiniq bas. Quloqqa ideal o'tiradigan poliuretan ko'pikli quloq uchlari va suyak o'tkazuvchanligi sensorlari yordamida beg'ubor qo'ng'iroq sifati.",
+    "colors": ["Qora", "Kumushrang"],
+    "specs": {
+      "Ulanish turi": "Bluetooth 5.3, Multipoint Connection",
+      "Faol shovqinni so'ndirish (ANC)": "Mavjud (HD Noise Cancelling QN2e)",
+      "Akkumulyator": "8 soat (ANC bilan), g'ilof bilan 24 soat",
+      "Kodeklar": "LDAC, LC3, AAC, SBC",
+      "Himoya darajasi": "IPX4 suv sachrashiga chidamli",
+      "Og'irligi": "5.9 g (har biri)",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "samsung-galaxy-buds2-pro",
+    "name": "Samsung Galaxy Buds2 Pro",
+    "brand": "Samsung",
+    "category": "tws",
+    "categoryName": "TWS",
+    "price": 1950000,
+    "originalPrice": 2350000,
+    "rating": 4.7,
+    "reviewsCount": 165,
+    "inStock": 14,
+    "isPopular": false,
+    "isNew": false,
+    "image": "/images/products/samsung-galaxy-buds2-pro.svg",
+    "images": [
+      "/images/products/samsung-galaxy-buds2-pro.svg",
+      "/images/products/samsung-galaxy-buds2-pro-open.svg"
+    ],
+    "description": "24-bit Hi-Fi audio uzatish, aqlli faol shovqinni so'ndirish va 360 Audio tajribasi. Ixcham va ergonomik dizayni quloqda deyarli sezilmaydi, hatto intensiv sport mashg'ulotlarida ham mustahkam ushlab turadi.",
+    "colors": ["Grafit", "Oq", "Binafsharang"],
+    "specs": {
+      "Ulanish turi": "Bluetooth 5.3, Samsung Seamless Codec (SSC)",
+      "Shovqinni so'ndirish": "Intellektual ANC (3 ta yuqori SNR mikrofon)",
+      "Akkumulyator": "5 soat (ANC bilan), g'ilof bilan 18 soat",
+      "Himoya darajasi": "IPX7 (suvga to'liq chidamlilik)",
+      "Og'irligi": "5.5 g (har biri)",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "hyperx-cloud-ii-wireless",
+    "name": "HyperX Cloud II Wireless",
+    "brand": "HyperX",
+    "category": "gaming",
+    "categoryName": "O'yin uchun",
+    "price": 1820000,
+    "originalPrice": 2100000,
+    "rating": 4.9,
+    "reviewsCount": 276,
+    "inStock": 15,
+    "isPopular": true,
+    "isNew": false,
+    "image": "/images/products/hyperx-cloud-ii.svg",
+    "images": [
+      "/images/products/hyperx-cloud-ii.svg",
+      "/images/products/hyperx-cloud-ii-side.svg"
+    ],
+    "description": "Geymerlar orasida afsonaga aylangan qulaylik va mustahkamlik endi 2.4 GHz simsiz aloqada. 53 mm kuchli drayverlar, DTS Headphone:X Spatial Audio fazoviy ovozi va 30 soatlik akkumulyator uzoq o'yin seanslarida g'alabani ta'minlaydi.",
+    "colors": ["Qora-Qizil", "Qora"],
+    "specs": {
+      "Ulanish turi": "2.4 GHz simsiz USB adapter (20 metrgacha)",
+      "Drayver": "53 mm neodimiy magnitlar",
+      "Ovoz effekti": "DTS Headphone:X fazoviy 7.1 audio",
+      "Akkumulyator": "30 soatgacha uzluksiz o'yin",
+      "Mikrofon": "Shovqinni bekor qiluvchi, olinadigan mikrofon",
+      "Konstruksiya": "Mustahkam alyuminiy korpus va Memory Foam",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "steelseries-arctis-nova-7",
+    "name": "SteelSeries Arctis Nova 7 Wireless",
+    "brand": "SteelSeries",
+    "category": "gaming",
+    "categoryName": "O'yin uchun",
+    "price": 2850000,
+    "originalPrice": 3200000,
+    "rating": 4.8,
+    "reviewsCount": 89,
+    "inStock": 8,
+    "isPopular": false,
+    "isNew": true,
+    "image": "/images/products/steelseries-arctis-nova-7.svg",
+    "images": [
+      "/images/products/steelseries-arctis-nova-7.svg",
+      "/images/products/steelseries-arctis-nova-7-side.svg"
+    ],
+    "description": "Simultaneous Wireless texnologiyasi: bir vaqtning o'zida ham 2.4GHz orqali kompyuterda o'ynang, ham Bluetooth orqali telefonda suhbatlashing! Sonar dasturiy ta'minoti orqali dushmanning har bir qadamini eshitish imkoni va ClearCast AI shovqinsiz mikrofon.",
+    "colors": ["Qora", "Oq"],
+    "specs": {
+      "Ulanish turi": "2.4 GHz Simsiz + Bluetooth 5.0 (Dual Audio)",
+      "Drayver": "40 mm Neodimiy High Fidelity",
+      "Akkumulyator": "38 soat, USB-C tezkor quvvatlash (15 daqiqada 6 soat)",
+      "Mikrofon": "ClearCast Gen 2, to'liq yashirinuvchi, AI shovqin tozalash",
+      "Moslik": "PC, Mac, PlayStation, Nintendo Switch, Smartfon",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "razer-blackshark-v2-pro",
+    "name": "Razer BlackShark V2 Pro",
+    "brand": "Razer",
+    "category": "gaming",
+    "categoryName": "O'yin uchun",
+    "price": 2490000,
+    "originalPrice": 2850000,
+    "rating": 4.7,
+    "reviewsCount": 112,
+    "inStock": 11,
+    "isPopular": false,
+    "isNew": false,
+    "image": "/images/products/razer-blackshark-v2-pro.svg",
+    "images": [
+      "/images/products/razer-blackshark-v2-pro.svg",
+      "/images/products/razer-blackshark-v2-pro-side.svg"
+    ],
+    "description": "Kibersport chempionlari uchun yaratilgan. TriForce Titanium 50 mm drayverlar yuqori, o'rta va past chastotalarni mustaqil ravishda sozlab, tiniq ovoz beradi. HyperClear Super Wideband mikrofoni radioeshittirish darajasidagi ovoz yetkazib beradi.",
+    "colors": ["Qora", "Oq"],
+    "specs": {
+      "Ulanish turi": "Razer HyperSpeed Wireless (2.4 GHz) + Bluetooth 5.2",
+      "Drayver": "Razer TriForce Titanium 50 mm",
+      "Akkumulyator": "70 soatgacha ishlash",
+      "Mikrofon": "Razer HyperClear Super Wideband (olinadigan)",
+      "Og'irligi": "320 gramm",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "audio-technica-ath-m50x",
+    "name": "Audio-Technica ATH-M50x",
+    "brand": "Audio-Technica",
+    "category": "wired",
+    "categoryName": "Simli",
+    "price": 2150000,
+    "originalPrice": 2400000,
+    "rating": 5.0,
+    "reviewsCount": 420,
+    "inStock": 16,
+    "isPopular": true,
+    "isNew": false,
+    "image": "/images/products/audio-technica-ath-m50x.svg",
+    "images": [
+      "/images/products/audio-technica-ath-m50x.svg",
+      "/images/products/audio-technica-ath-m50x-fold.svg"
+    ],
+    "description": "Professional ovoz yozish studiyalari va musiqachilarning oltin standarti. 45 mm katta diafragmali drayverlar, mis bilan qoplangan alyuminiy simli ovoz g'altaklari va mukammal ovoz izolyatsiyasi. Jamlanmada 3 xil olinadigan kabel mavjud.",
+    "colors": ["Klassik Qora", "Oq", "To'q kulrang"],
+    "specs": {
+      "Ulanish turi": "Simli (3.5 mm va 6.3 mm oltin qoplamali adapter)",
+      "Drayver": "45 mm Neodimiy",
+      "Chastota diapazoni": "15 Hz - 28 000 Hz",
+      "Qarshilik (Impedans)": "38 Om",
+      "Sezgirlik": "99 dB",
+      "Og'irligi": "285 gramm (kabelsiz)",
+      "Kabellar": "1.2m spiral, 3m to'g'ri, 1.2m qisqa to'g'ri kabel",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "sennheiser-hd-600",
+    "name": "Sennheiser HD 600 Audiophile",
+    "brand": "Sennheiser",
+    "category": "wired",
+    "categoryName": "Simli",
+    "price": 5200000,
+    "originalPrice": 5900000,
+    "rating": 4.9,
+    "reviewsCount": 94,
+    "inStock": 5,
+    "isPopular": false,
+    "isNew": false,
+    "image": "/images/products/sennheiser-hd-600.svg",
+    "images": [
+      "/images/products/sennheiser-hd-600.svg",
+      "/images/products/sennheiser-hd-600-open.svg"
+    ],
+    "description": "Audiophillar va mastering muhandislarining sevimli ochiq turdagi (open-back) quloqchini. Tabiiy, shaffof va keng fazoviy sahna. Ochiq akustik korpus musiqadagi eng nozik detalgacha xuddi jonli ijroda bo'lgandek eshitish imkonini beradi.",
+    "colors": ["Marmar qora"],
+    "specs": {
+      "Akustik tuzilishi": "Ochiq dinamik (Open-back)",
+      "Chastota diapazoni": "12 Hz - 40 500 Hz",
+      "Qarshilik (Impedans)": "300 Om (kuchaytirgich tavsiya etiladi)",
+      "Garmonik buzilishlar (THD)": "< 0.05%",
+      "Ulanish": "3.5 mm raz'yom va 6.35 mm vintli adapter",
+      "Og'irligi": "260 gramm",
+      "Kafolat": "2 yil rasmiy"
+    }
+  },
+  {
+    "id": "beyerdynamic-dt-770-pro",
+    "name": "Beyerdynamic DT 770 PRO (80 Ohm)",
+    "brand": "Beyerdynamic",
+    "category": "wired",
+    "categoryName": "Simli",
+    "price": 2350000,
+    "originalPrice": 2600000,
+    "rating": 4.9,
+    "reviewsCount": 215,
+    "inStock": 10,
+    "isPopular": false,
+    "isNew": false,
+    "image": "/images/products/beyerdynamic-dt-770-pro.svg",
+    "images": [
+      "/images/products/beyerdynamic-dt-770-pro.svg",
+      "/images/products/beyerdynamic-dt-770-pro-side.svg"
+    ],
+    "description": "Germaniyada qo'lda yasalgan afsonaviy studiya monitoring quloqchini. Yopiq konstruksiya (closed-back) tashqi tovushlarni mukammal to'sadi. Yumshoq velur yostiqchalari soatlab charchoqsiz ishlash imkonini beradi, chuqur va aniq bas takrorlanishi bilan mashhur.",
+    "colors": ["Qora-Kumushrang"],
+    "specs": {
+      "Akustik tuzilishi": "Yopiq dinamik (Closed-back)",
+      "Chastota diapazoni": "5 Hz - 35 000 Hz",
+      "Qarshilik (Impedans)": "80 Om",
+      "Nominal tovush bosimi (SPL)": "96 dB",
+      "Yostiqchalar materiali": "Velur (almashtiriladigan)",
+      "Ishlab chiqarilgan mamlakat": "Germaniya",
+      "Kafolat": "1 yil rasmiy"
+    }
+  }
+]
